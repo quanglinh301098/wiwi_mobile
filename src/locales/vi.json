@@ -1,0 +1,147 @@
+{
+    "nav": {
+        "about": "Giới thiệu",
+        "services": "Dịch vụ",
+        "projects": "Dự án",
+        "whyUs": "Tại sao chọn WiWi",
+        "testimonials": "Đánh giá",
+        "contact": "Liên hệ"
+    },
+    "hero": {
+        "title": "Giải pháp Công nghệ Đột phá cùng WiWi",
+        "subtitle": "Chúng tôi biến ý tưởng của bạn thành sản phẩm số xuất sắc với công nghệ tiên tiến nhất",
+        "ctaPrimary": "Bắt đầu dự án",
+        "ctaSecondary": "Tìm hiểu thêm"
+    },
+    "about": {
+        "title": "Về WiWi",
+        "description": "WiWi là công ty công nghệ trẻ trung, năng động, chuyên phát triển các giải pháp phần mềm tiên tiến. Với đội ngũ kỹ sư giàu kinh nghiệm và đam mê sáng tạo, chúng tôi cam kết mang đến những sản phẩm chất lượng cao, tối ưu hiệu suất và trải nghiệm người dùng vượt trội."
+    },
+    "services": {
+        "title": "Dịch vụ của chúng tôi",
+        "items": [
+            {
+                "title": "Phần mềm tùy chỉnh",
+                "description": "Phát triển phần mềm theo yêu cầu riêng, tối ưu quy trình kinh doanh và nâng cao hiệu suất vận hành cho doanh nghiệp."
+            },
+            {
+                "title": "Ứng dụng Web & Mobile",
+                "description": "Thiết kế và phát triển ứng dụng web, mobile đa nền tảng với giao diện hiện đại và trải nghiệm người dùng mượt mà."
+            },
+            {
+                "title": "Giải pháp AI",
+                "description": "Tích hợp trí tuệ nhân tạo và machine learning để tự động hóa quy trình, phân tích dữ liệu và tạo lợi thế cạnh tranh."
+            },
+            {
+                "title": "Cloud & DevOps",
+                "description": "Triển khai hạ tầng đám mây, CI/CD pipeline và giám sát hệ thống để đảm bảo ứng dụng hoạt động ổn định, mở rộng linh hoạt."
+            }
+        ]
+    },
+    "projects": {
+        "title": "Dự án tiêu biểu",
+        "items": [
+            {
+                "title": "Nền tảng Thương mại điện tử",
+                "description": "Hệ thống thương mại điện tử toàn diện với quản lý sản phẩm, thanh toán trực tuyến và phân tích doanh thu thời gian thực."
+            },
+            {
+                "title": "Ứng dụng Quản lý Sức khỏe",
+                "description": "Ứng dụng mobile theo dõi sức khỏe cá nhân, đặt lịch khám bệnh và tư vấn trực tuyến với bác sĩ."
+            },
+            {
+                "title": "Hệ thống Phân tích Dữ liệu AI",
+                "description": "Nền tảng phân tích dữ liệu lớn sử dụng AI để dự đoán xu hướng thị trường và tối ưu chiến lược kinh doanh."
+            },
+            {
+                "title": "Hạ tầng Cloud cho Fintech",
+                "description": "Kiến trúc microservices trên cloud với bảo mật cao, xử lý hàng triệu giao dịch tài chính mỗi ngày."
+            }
+        ]
+    },
+    "whyUs": {
+        "title": "Tại sao chọn WiWi?",
+        "points": [
+            {
+                "title": "Đội ngũ chuyên gia",
+                "description": "Kỹ sư giàu kinh nghiệm, luôn cập nhật công nghệ mới nhất để mang đến giải pháp tối ưu."
+            },
+            {
+                "title": "Quy trình chuyên nghiệp",
+                "description": "Áp dụng Agile/Scrum, đảm bảo tiến độ minh bạch và chất lượng sản phẩm cao nhất."
+            },
+            {
+                "title": "Hỗ trợ tận tâm",
+                "description": "Đồng hành cùng khách hàng từ ý tưởng đến triển khai và bảo trì dài hạn."
+            },
+            {
+                "title": "Công nghệ tiên tiến",
+                "description": "Sử dụng các công nghệ và framework hiện đại nhất để xây dựng sản phẩm bền vững."
+            }
+        ],
+        "stats": [
+            {
+                "value": 50,
+                "suffix": "+",
+                "label": "Dự án hoàn thành"
+            },
+            {
+                "value": 30,
+                "suffix": "+",
+                "label": "Khách hàng tin tưởng"
+            },
+            {
+                "value": 5,
+                "suffix": "+",
+                "label": "Năm kinh nghiệm"
+            },
+            {
+                "value": 98,
+                "suffix": "%",
+                "label": "Tỷ lệ hài lòng"
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "Khách hàng nói gì về WiWi",
+        "items": [
+            {
+                "name": "Nguyễn Văn An",
+                "position": "Giám đốc Công nghệ",
+                "company": "TechViet Corp",
+                "content": "WiWi đã giúp chúng tôi xây dựng hệ thống thương mại điện tử vượt xa kỳ vọng. Đội ngũ chuyên nghiệp, giao tiếp tốt và luôn đảm bảo tiến độ."
+            },
+            {
+                "name": "Trần Thị Mai",
+                "position": "CEO",
+                "company": "HealthPlus",
+                "content": "Ứng dụng sức khỏe do WiWi phát triển đã nhận được phản hồi tích cực từ hàng nghìn người dùng. Chất lượng code và UX đều xuất sắc."
+            },
+            {
+                "name": "Lê Hoàng Minh",
+                "position": "Trưởng phòng IT",
+                "company": "FinSmart",
+                "content": "Hạ tầng cloud mà WiWi triển khai cho chúng tôi hoạt động ổn định, bảo mật cao. Đội ngũ hỗ trợ nhanh chóng và tận tâm."
+            }
+        ]
+    },
+    "contact": {
+        "title": "Liên hệ với chúng tôi",
+        "fullName": "Họ và tên",
+        "email": "Email",
+        "phone": "Số điện thoại",
+        "message": "Tin nhắn",
+        "submit": "Gửi tin nhắn",
+        "success": "Cảm ơn bạn! Chúng tôi sẽ liên hệ lại sớm nhất.",
+        "errors": {
+            "fullNameRequired": "Vui lòng nhập họ và tên",
+            "emailRequired": "Vui lòng nhập email",
+            "emailInvalid": "Email không đúng định dạng",
+            "messageRequired": "Vui lòng nhập tin nhắn"
+        }
+    },
+    "footer": {
+        "copyright": "© 2024 WiWi. Tất cả quyền được bảo lưu.",
+        "address": "Hà Nội, Việt Nam"
+    }
+}

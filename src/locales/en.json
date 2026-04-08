@@ -1,0 +1,147 @@
+{
+    "nav": {
+        "about": "About",
+        "services": "Services",
+        "projects": "Projects",
+        "whyUs": "Why WiWi",
+        "testimonials": "Testimonials",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Breakthrough Technology Solutions with WiWi",
+        "subtitle": "We transform your ideas into outstanding digital products with cutting-edge technology",
+        "ctaPrimary": "Start a Project",
+        "ctaSecondary": "Learn More"
+    },
+    "about": {
+        "title": "About WiWi",
+        "description": "WiWi is a young, dynamic technology company specializing in developing advanced software solutions. With a team of experienced and passionate engineers, we are committed to delivering high-quality products optimized for performance and exceptional user experience."
+    },
+    "services": {
+        "title": "Our Services",
+        "items": [
+            {
+                "title": "Custom Software",
+                "description": "Tailored software development to optimize business processes and enhance operational efficiency for your enterprise."
+            },
+            {
+                "title": "Web & Mobile Apps",
+                "description": "Design and develop cross-platform web and mobile applications with modern interfaces and seamless user experience."
+            },
+            {
+                "title": "AI Solutions",
+                "description": "Integrate artificial intelligence and machine learning to automate processes, analyze data, and create competitive advantages."
+            },
+            {
+                "title": "Cloud & DevOps",
+                "description": "Deploy cloud infrastructure, CI/CD pipelines, and system monitoring to ensure stable, scalable application performance."
+            }
+        ]
+    },
+    "projects": {
+        "title": "Featured Projects",
+        "items": [
+            {
+                "title": "E-Commerce Platform",
+                "description": "Comprehensive e-commerce system with product management, online payments, and real-time revenue analytics."
+            },
+            {
+                "title": "Health Management App",
+                "description": "Mobile health tracking application with appointment scheduling and online doctor consultations."
+            },
+            {
+                "title": "AI Data Analytics System",
+                "description": "Big data analytics platform using AI to predict market trends and optimize business strategies."
+            },
+            {
+                "title": "Fintech Cloud Infrastructure",
+                "description": "Microservices architecture on cloud with high security, processing millions of financial transactions daily."
+            }
+        ]
+    },
+    "whyUs": {
+        "title": "Why Choose WiWi?",
+        "points": [
+            {
+                "title": "Expert Team",
+                "description": "Experienced engineers who stay up-to-date with the latest technologies to deliver optimal solutions."
+            },
+            {
+                "title": "Professional Process",
+                "description": "Applying Agile/Scrum methodology to ensure transparent progress and highest product quality."
+            },
+            {
+                "title": "Dedicated Support",
+                "description": "Partnering with clients from ideation through deployment and long-term maintenance."
+            },
+            {
+                "title": "Cutting-edge Technology",
+                "description": "Utilizing the most modern technologies and frameworks to build sustainable products."
+            }
+        ],
+        "stats": [
+            {
+                "value": 50,
+                "suffix": "+",
+                "label": "Projects Completed"
+            },
+            {
+                "value": 30,
+                "suffix": "+",
+                "label": "Trusted Clients"
+            },
+            {
+                "value": 5,
+                "suffix": "+",
+                "label": "Years of Experience"
+            },
+            {
+                "value": 98,
+                "suffix": "%",
+                "label": "Satisfaction Rate"
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "What Our Clients Say",
+        "items": [
+            {
+                "name": "Nguyen Van An",
+                "position": "CTO",
+                "company": "TechViet Corp",
+                "content": "WiWi helped us build an e-commerce system that exceeded our expectations. Professional team, great communication, and always on schedule."
+            },
+            {
+                "name": "Tran Thi Mai",
+                "position": "CEO",
+                "company": "HealthPlus",
+                "content": "The health app developed by WiWi received positive feedback from thousands of users. Both code quality and UX are excellent."
+            },
+            {
+                "name": "Le Hoang Minh",
+                "position": "IT Manager",
+                "company": "FinSmart",
+                "content": "The cloud infrastructure deployed by WiWi runs stably with high security. The support team is responsive and dedicated."
+            }
+        ]
+    },
+    "contact": {
+        "title": "Get in Touch",
+        "fullName": "Full Name",
+        "email": "Email",
+        "phone": "Phone Number",
+        "message": "Message",
+        "submit": "Send Message",
+        "success": "Thank you! We will get back to you shortly.",
+        "errors": {
+            "fullNameRequired": "Please enter your full name",
+            "emailRequired": "Please enter your email",
+            "emailInvalid": "Invalid email format",
+            "messageRequired": "Please enter your message"
+        }
+    },
+    "footer": {
+        "copyright": "© 2024 WiWi. All rights reserved.",
+        "address": "Hanoi, Vietnam"
+    }
+}
